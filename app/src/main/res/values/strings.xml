@@ -7,4 +7,8 @@
     <string name="texto_ir_login">Sí ya dispone de una cuenta, inicie sesión</string>
     <string name="hint_username">Nombre de usuario</string>
     <string name="texto_boton_registrarse">Registrarse</string>
+    <string name="title_activity_dashboard">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>

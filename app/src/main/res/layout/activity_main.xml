@@ -55,6 +55,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:text="@string/texto_boton_login"
+        android:onClick="onClickIniciarSesion"
         app:backgroundTint="@color/primaryVariant"
         app:layout_constraintBottom_toTopOf="@+id/textviewGotoSignUp"
         app:layout_constraintEnd_toEndOf="@+id/editTextPassword"
