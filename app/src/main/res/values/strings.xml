@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Minitwitt</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_contrasena">Contraseña</string>
+    <string name="texto_boton_login">INICIAR SESIÓN</string>
+    <string name="text_crear_cuenta">Sí aún no tienes cuenta, registrate aquí</string>
+    <string name="texto_ir_login">Sí ya dispone de una cuenta, inicie sesión</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="texto_boton_registrarse">Registrarse</string>
+</resources>
