@@ -1,4 +1,4 @@
-package com.androidavanzado.minitwitt.ui;
+package com.androidavanzado.minitwitt.frontend;
 
 import androidx.appcompat.app.AppCompatActivity;
 
