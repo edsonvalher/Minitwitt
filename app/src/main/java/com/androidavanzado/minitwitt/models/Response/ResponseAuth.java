@@ -1,4 +1,4 @@
-package com.androidavanzado.minitwitt.models;
+package com.androidavanzado.minitwitt.models.Response;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

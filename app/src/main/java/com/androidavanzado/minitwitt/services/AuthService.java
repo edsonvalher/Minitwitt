@@ -1,8 +1,8 @@
 package com.androidavanzado.minitwitt.services;
 
-import com.androidavanzado.minitwitt.models.RequestLogin;
-import com.androidavanzado.minitwitt.models.RequestSignUp;
-import com.androidavanzado.minitwitt.models.ResponseAuth;
+import com.androidavanzado.minitwitt.models.Request.RequestLogin;
+import com.androidavanzado.minitwitt.models.Request.RequestSignUp;
+import com.androidavanzado.minitwitt.models.Response.ResponseAuth;
 
 import retrofit2.Call;
 import retrofit2.http.Body;

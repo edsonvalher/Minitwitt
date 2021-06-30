@@ -1,10 +1,12 @@
-package com.androidavanzado.minitwitt;
+package com.androidavanzado.minitwitt.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+
+import com.androidavanzado.minitwitt.R;
 
 public class SignUpActivity extends AppCompatActivity {
 
